@@ -5,7 +5,7 @@
 -------
 
 <p>
-Projeto Acadêmico feito através da plataforma da <a href="https://web.dio.me/">DIO</a>. Onde foi construido uma página com tema na série Stranger Things.  
+Projeto Acadêmico feito através da plataforma <a href="https://web.dio.me/">DIO</a>. Onde foi construido uma página com tema na série Stranger Things.  
 </p>
 
 ## 💻 Tecnologias Usadas:
